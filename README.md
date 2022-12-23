@@ -13,7 +13,7 @@
 [![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
 
 
-  <h1> ⭐SASS/SCSS INSTALATION LOCALE FR <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="26"/> </h1>
+  <h1> ⭐SASS/SCSS INSTALLATION LOCALE FR <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="26"/> </h1>
 
   <samp>
    <h6>Ceci est mon tout premier tuto ✌️ destiné initialement à des camarades de promotion en développement web, soyez indulgent avec ce travail
