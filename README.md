@@ -16,7 +16,7 @@
   <h1> ⭐SASS/SCSS INSTALLATION LOCALE FR <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="26"/> </h1>
 
   <samp>
-   <h6>Ceci est mon tout premier tuto ✌️ destiné initialement à des camarades de promotion en développement web, soyez indulgent avec ce travail
+   <h6>Ceci est mon tout premier tuto ✌️ destiné initialement à des camarades de promotion en développement web Simplon, soyez indulgent avec ce travail
    et n'hésitez pas à me faire remonter tous les bugs rencontrer ou des axes d'améliorations potentielles. 💕 </h6>
    </samp
    
