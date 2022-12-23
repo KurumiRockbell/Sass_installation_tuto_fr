@@ -96,7 +96,7 @@
   <br>
   <br>
 
-  **VI.** à ce moment-là vous aller devoir ouvrir un nouveau *terminal VS code pour moi* et taper dans ce terminal : <br> 
+  **VI.** à ce moment-là vous aller ouvrir un nouveau *terminal dans mon cas VSCode,* et taper dans ce terminal : <br> 
  ``` ./dart-sass/sass sass/style.scss ``` 
  <br>
   Cette commande va indiquer a *Sass* que nous travaillons dans le fichier *"style.scss"*.
