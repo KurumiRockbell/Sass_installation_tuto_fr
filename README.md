@@ -31,8 +31,8 @@
   <br>
   <br>
 
-  **I.** Pour la première étape, vous allez vous rendre sur <b>le site officiel de SASS</b> et vous rendre dans la section <b>"Install"</b>.
-
+  **I.** Pour la première étape, vous allez vous rendre sur <b>le site officiel de SASS</b> et vous rendre dans la section <b>"Install"</b>. <br>
+    [SASS Site Officiel](https://sass-lang.com/")
   <br>
   <br>
 
@@ -42,7 +42,8 @@
   <br>
   <br>
  
-  **II.** Une fois sur la page "Install", vous devez click sur <b>"From Github"</b> dans la partit installation dite en <b>"Command Line"</b>.
+  **II.** Une fois sur la page "Install", vous devez click sur <b>"From Github"</b> dans la partit installation dite en <b>"Command Line"</b>. <br>
+    [SASS Install section](https://sass-lang.com/install)
 
   <br>
   <br>
