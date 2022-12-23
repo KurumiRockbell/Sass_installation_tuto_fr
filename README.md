@@ -24,7 +24,7 @@
    <br>
    <br>
     
-  Dans ce tutoriel nous allons apprendre à installer le préprocesseur *SASS* en version locale sans passé par *Npm* par exemple. Sass va nous permettre de rédiger du     *CSS* de manière plus organiser et plus propre. On retrouve actuellement *SASS* sur bons nombres de projet web, car son efficacité n'est plus à prouver. Une fois Sass en votre possesions vous aurez à intégré toutes ces notions en travaillant avec quelques fonctionnalités performantes de *Sass* telles que : les *variables, les fonctions, les conditions, les mixins et les extensions*. 
+  Dans ce tutoriel nous allons apprendre à installer le préprocesseur *SASS* en version locale sans passé par *Npm*. Sass va nous permettre de rédiger du     *CSS* de manière plus organiser et plus propre. On retrouve actuellement *SASS* sur bons nombres de projet web, car son efficacité n'est plus à prouver. Une fois Sass en votre possesions vous aurez à intégré toutes ces notions en travaillant avec quelques fonctionnalités performantes de *Sass* telles que : les *variables, les fonctions, les conditions, les mixins et les extensions*. 
 
   <h3> START HERE </h3>
 
