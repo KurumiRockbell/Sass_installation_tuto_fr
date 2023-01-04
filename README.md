@@ -157,6 +157,6 @@
   Génie sérieux! </h6>
 
   [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama) 
-  [![GitHub stars](https://badgen.net/github/stars/KurumiRockbell/Sass_instalation_tuto_fr)](https://GitHub.com/KurumiRockbell/Sass_instalation_tuto_fr)
+  [![GitHub stars !](https://badgen.net/github/stars/KurumiRockbell/Sass_instalation_tuto_fr)](https://GitHub.com/KurumiRockbell/Sass_instalation_tuto_fr)
   </samp>
 </div>
