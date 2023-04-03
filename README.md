@@ -4,7 +4,6 @@
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
 ![Markdown](https://camo.githubusercontent.com/6e875655730cdaa9ea24491042a944e3895f51e13552ff18305aace236853dba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d616465253230776974682d4d61726b646f776e2d626c61636b2e737667)
 <br>
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 ![If usefull](https://camo.githubusercontent.com/deab10366c6377e3d4cc454a26f96225e2cc196214b129b95c9d5284207b64d7/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d254630253946253843253946266d6573736167653d496625323055736566756c267374796c653d7374796c653d666c617426636f6c6f723d424334453939)
 <br>
 <br>
